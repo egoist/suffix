@@ -1,6 +1,6 @@
 {
   "name": "suffix",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add suffix to a filename.",
   "license": "MIT",
   "repository": "egoist/suffix",
