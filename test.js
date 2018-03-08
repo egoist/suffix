@@ -1,5 +1,5 @@
 import test from 'ava'
-import suffix from './'
+import suffix from '.'
 
 test('relative path', t => {
   const path = 'a.js'
