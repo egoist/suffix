@@ -14,7 +14,10 @@ $ npm install --save suffix
 const suffix = require('suffix')
 
 suffix('a.js', '.min')
-//=> a.min.js
+//=> a.min.
+
+suffix('/a/b/c', '.umd.js')
+//=> /a/b/c.umd.js
 ```
 
 ## API
